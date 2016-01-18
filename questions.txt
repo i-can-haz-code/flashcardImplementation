@@ -1,0 +1,11 @@
+#includes basic questions for now.
+
+
+what is the chemical symbol of oxygen?:o
+what is the capital of australia?:canberra
+what is the symbol of force in physics?:f
+what is the capital of hungary?:budapest
+how many bones are there in the human body?:206
+how many continents are there in the world?:7
+how many planets in the solar system?:8
+last name of the president of the united states of america?:obama
